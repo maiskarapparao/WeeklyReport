@@ -1,0 +1,5 @@
+server:
+  base-path: ${SERVER_BASE_PATH:/home/ubuntu}
+bank-report:
+  sheet-name: ${SHEET_NAME:WeeklyReport}
+  row-height: ${ROW_HEIGHT:800}
